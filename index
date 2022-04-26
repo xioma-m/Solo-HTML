@@ -45,10 +45,42 @@
       </ol>
       <h4>otros libros </h4>
       <ol> 
-        <li> <a href = "#"> Una vacante imprevista</li>
+        <li> <a href = "#"> Una vacante imprevista</a></li>
       </ol>
     </div>
-
-
+     <div>
+      <a href = "#" target = "_blank">página web</a>
+     </div>
+     <div>
+        <table align = "center" border = "1 px">
+          <tr bgcolor = "pink">
+            <!--encabezados tabla -->
+            <th>nominaciones</th>
+            <th>premios ganados</th>
+          </tr>
+          <tr>
+            <td>onec sit amet tortor ac magna laoreet </td>
+            <td>onec sit amet tortor ac magna laoreet </td>
+          </tr>
+          <tr>
+            <td colspan = "2">  amet tortor ac magna laoreet
+            <img src = "#" alt = "">
+            </td>
+          </tr>
+        </table>
+     </div>
+     <div>
+        <form action = "#" method = "POST"> 
+          <input type = "text" name = "usuario">
+          <input type = "password" name = "contraseña">
+          <br>
+          <input type = "radio" name = "sexo" value = "male">masculino
+          <input type = "radio" name = "sexo" value = "female">femenino
+          <input type = "submit" name = "enviar">
+        </form>
+     </div>
+     <div>
+      <footer>2022 &#169 Xiomara </footer>
+     </div>
   </body>
 </html>

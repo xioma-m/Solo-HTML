@@ -6,9 +6,47 @@
     <div> 
       <h1 align = "center">BIOGRAFIA </h1>
       <h2 align = "center">J. K. Rowling </h2>
-    <hr>
-    <img width = "90%" align = "center" src = "https://static.wikia.nocookie.net/esharrypotter/images/3/3e/JKRowling.jpg/revision/latest?cb=20150821083847"
-    border = "2 px">
+      <hr>
+      <img width = "90%" align = "center" src = "https://static.wikia.nocookie.net/esharrypotter/images/3/3e/JKRowling.jpg/revision/latest?cb=20150821083847"
+        border = "2 px">
+    </div>
+    <div>
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet aliquam 
+        id diam maecenas ultricies mi eget. Amet tellus cras adipiscing enim. Ante in nibh mauris cursus. Vitae suscipit tellus mauris a diam maecenas
+        sed enim ut. Phasellus vestibulum lorem sed risus. Arcu cursus vitae congue mauris rhoncus aenean. Magna fringilla urna porttitor rhoncus dolor 
+        purus non enim. Nec nam aliquam sem et tortor consequat id porta nibh. Blandit turpis cursus in hac habitasse.
+
+        Praesent semper feugiat nibh sed pulvinar. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Ac feugiat sed lectus vestibulum.
+        Elementum pulvinar etiam non quam lacus. Accumsan sit amet nulla facilisi morbi tempus. Duis tristique sollicitudin nibh sit amet commodo nulla. 
+        Viverra maecenas accumsan lacus vel facilisis volutpat est. Est pellentesque elit ullamcorper dignissim. Est ultricies integer quis auctor elit 
+        sed vulputate mi sit. Nibh cras pulvinar mattis nunc sed blandit libero volutpat. Quis ipsum suspendisse ultrices gravida dictum fusce. Diam 
+        vulputate ut pharetra sit amet aliquam id. Consequat nisl vel pretium lectus. Elementum pulvinar etiam non quam. Vel eros donec ac odio tempor 
+        orci dapibus ultrices.
+ 
+        Bibendum enim facilisis gravida neque. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Dictumst vestibulum rhoncus est 
+        pellentesque elit ullamcorper dignissim cras tincidunt. Sed turpis tincidunt id aliquet. Enim tortor at auctor urna nunc id cursus. Ornare 
+        suspendisse sed nisi lacus. Sit amet nisl purus in mollis. Id diam maecenas ultricies mi eget mauris pharetra. Non curabitur gravida arcu ac
+        tortor dignissim. Pretium nibh ipsum consequat nisl vel pretium lectus. Mi quis hendrerit dolor magna eget est lorem ipsum. Dui accumsan sit 
+        amet nulla facilisi morbi. Lobortis elementum nibh tellus molestie nunc non blandit massa enim. Faucibus in ornare quam viverra orci sagittis 
+        eu. Tristique senectus et netus et malesuada fames ac turpis. Sit amet facilisis magna etiam tempor orci eu. Dui vivamus arcu felis bibendum 
+        ut tristique et egestas.
+      </p>
+    </div>
+    <div>
+      <h3>Obras más conocidas</h3>
+      <ol>
+        <li>harry potter y la piedra filosofal </li>
+        <li>harry potter y la camaras secreta </li>
+        <li>harry potter y el prisionero de Azkaban </li>
+        <li>harry potter y el caliz de fuego </li>
+        <li>harry potter y la orden del fenix </li>
+        <li>harry potter y el misterio del principe </li>
+        <li>harry potter y las reliquias de la muerte </li>
+      </ol>
+      <h4>otros libros </h4>
+      <ol> 
+        <li> <a href = "#"> Una vacante imprevista</li>
+      </ol>
     </div>
 
 

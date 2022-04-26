@@ -1,9 +1,15 @@
 <html>
   <head>
-    <title> </title>
+    <title>Biografía J. K. Rowling</title>
   </head>
   <body>
-
+    <div> 
+      <h1 align = "center">BIOGRAFIA </h1>
+      <h2 align = "center">J. K. Rowling </h2>
+    <hr>
+    <img width = "90%" align = "center" src = "https://static.wikia.nocookie.net/esharrypotter/images/3/3e/JKRowling.jpg/revision/latest?cb=20150821083847"
+    border = "2 px">
+    </div>
 
 
   </body>

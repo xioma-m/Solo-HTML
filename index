@@ -2,14 +2,16 @@
   <head>
     <title>Biografía J. K. Rowling</title>
   </head>
-  <body>
+  
+  <body bgcolor="#FFEBDE">
     <div> 
       <h1 align = "center">BIOGRAFIA </h1>
-      <h2 align = "center">J. K. Rowling </h2>
-      <hr>
+      <h2 align = "center"><strong><i>J. K. Rowling </i></strong></h2>
+      <hr/>
       <img width = "90%" align = "center" src = "https://static.wikia.nocookie.net/esharrypotter/images/3/3e/JKRowling.jpg/revision/latest?cb=20150821083847"
-        border = "2 px">
+        alt= "fotografía de J. K. Rowling" border = "2 px">
     </div>
+    
     <div>
       <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet aliquam 
         id diam maecenas ultricies mi eget. Amet tellus cras adipiscing enim. Ante in nibh mauris cursus. Vitae suscipit tellus mauris a diam maecenas
@@ -32,10 +34,12 @@
         ut tristique et egestas.
       </p>
     </div>
+    
+    <hr/>
     <div>
-      <h3>Obras más conocidas</h3>
+      <h3 align="center">Obras más conocidas</h3>
       <ol>
-        <li>harry potter y la piedra filosofal </li>
+        <li><strong>harry potter</strong> y la piedra filosofal </li>
         <li>harry potter y la camaras secreta </li>
         <li>harry potter y el prisionero de Azkaban </li>
         <li>harry potter y el caliz de fuego </li>
@@ -43,17 +47,19 @@
         <li>harry potter y el misterio del principe </li>
         <li>harry potter y las reliquias de la muerte </li>
       </ol>
-      <h4>otros libros </h4>
-      <ol> 
-        <li> <a href = "#"> Una vacante imprevista</a></li>
-      </ol>
     </div>
-     <div>
+    
+    <div>
+      <h4 align="center">ás sobre ella </h4>
+      <a href = "#"> Una vacante imprevista</a>
+      <br/>
       <a href = "#" target = "_blank">página web</a>
-     </div>
-     <div>
+    </div>
+    
+    <br/>
+    <div>
         <table align = "center" border = "1 px">
-          <tr bgcolor = "pink">
+          <tr bgcolor = "green">
             <!--encabezados tabla -->
             <th>nominaciones</th>
             <th>premios ganados</th>
@@ -64,23 +70,31 @@
           </tr>
           <tr>
             <td colspan = "2">  amet tortor ac magna laoreet
-            <img src = "#" alt = "">
+            <img src = "#" alt = "premio">
             </td>
           </tr>
         </table>
-     </div>
-     <div>
+    </div>
+     
+     <hr/>
+     <br/>
+    <div align="center">
+        <p>¡PARA MÁS INFORMACIÓN REGISTRATE!</p>
         <form action = "#" method = "POST"> 
           <input type = "text" name = "usuario">
+          <br/>
           <input type = "password" name = "contraseña">
           <br>
           <input type = "radio" name = "sexo" value = "male">masculino
           <input type = "radio" name = "sexo" value = "female">femenino
+          <br/>
           <input type = "submit" name = "enviar">
         </form>
-     </div>
-     <div>
+    </div>
+     
+    <div align="center">
       <footer>2022 &#169 Xiomara </footer>
-     </div>
+    </div>
+    
   </body>
 </html>
